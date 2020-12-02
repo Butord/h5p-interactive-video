@@ -1,14 +1,14 @@
 {
   "semantics": [
     {
-      "label": "Interactive Video Editor",
+      "label": "Редактор інтерактивного відео",
       "fields": [
         {
-          "label": "Upload/embed video",
+          "label": "Завантажити/вставити відео",
           "fields": [
             {
-              "label": "Add a video",
-              "description": "Click below to add a video you wish to use in your interactive video. You can add a video link or upload video files. It is possible to add several versions of the video with different qualities. To ensure maximum support in browsers at least add a version in webm and mp4 formats."
+              "label": "Додайте відео",
+              "description": "Натисніть нище, якщо бажаєте додати відео. Ви можете як додати посилання на відео, такі завантажити відеофайл. У Вас є можливість додати декілька версій відео з різною якістю. Щоб забезпечити максимальну підтримку відображення відео бравзерами додайте відео у форматах webm або mp4."
             },
             {
               "label": "Start screen options (unsupported for YouTube videos)",
